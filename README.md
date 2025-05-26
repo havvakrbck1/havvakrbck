@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Havva Karabacak!
+# 👋 Hi, I'm Havva!
 
 I'm a passionate **data science enthusiast** with a strong background in mathematics and programming. I focus on **data analysis**, **modeling**, and **predictive analytics**, and I enjoy turning complex data into actionable insights. With experience in **software development** and a desire to continuously improve, I aim to bring value through technology and collaboration.
 
